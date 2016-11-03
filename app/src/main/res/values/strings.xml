@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">音乐播放器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_music_path">音乐播放路径</string>
+    <string name="str_play">播放</string>
+    <string name="str_pause">暂停</string>
+    <string name="str_continue1">继续</string>
+    <string name="str_replay">重播</string>
+    <string name="str_stop">停止</string>
+    <string name="str_filename_error">文件名输入错误</string>
+    <string name="str_filepath_error">文件路径错误</string>
+
+</resources>
