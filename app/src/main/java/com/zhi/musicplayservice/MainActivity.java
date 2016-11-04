@@ -140,6 +140,5 @@ public class MainActivity extends Activity implements View.OnClickListener{
         if(null != intent){
             stopService(intent);
         }
-        musicInterface.releaseService();
     }
 }
