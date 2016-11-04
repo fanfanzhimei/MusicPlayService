@@ -12,6 +12,4 @@ public interface MusicInterface {
     void replay();
 
     void stop();
-
-    void releaseService();
 }
