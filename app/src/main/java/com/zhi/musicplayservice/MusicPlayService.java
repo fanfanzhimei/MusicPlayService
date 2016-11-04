@@ -80,12 +80,6 @@ public class MusicPlayService extends Service {
             }
         }
 
-        @Override
-        public void releaseService() {
-            mediaPlayer.release();
-            mediaPlayer = null;
-        }
-
         private void musicPlay(int position) {
             try {
                 mediaPlayer.setDataSource(path);
